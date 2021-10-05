@@ -1,0 +1,12 @@
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SoloTest.resources
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Eren\Desktop\Projects\Solo Test\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
